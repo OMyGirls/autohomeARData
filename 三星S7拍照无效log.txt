@@ -1,0 +1,69 @@
+04-21 11:37:44.805 10083-10083/? E/Zygote: v2
+04-21 11:37:44.805 10083-10083/? I/libpersona: KNOX_SDCARD checking this for 10302
+04-21 11:37:44.805 10083-10083/? I/libpersona: KNOX_SDCARD not a persona
+04-21 11:37:44.805 10083-10083/? W/SELinux: Function: selinux_compare_spd_ram, index[1], priority [2], priority version is VE=SEPF_SECMOBILE_6.0.1_0025
+04-21 11:37:44.805 10083-10083/? E/Zygote: accessInfo : 0
+04-21 11:37:44.805 10083-10083/? W/SELinux: SELinux: seapp_context_lookup: seinfo=default, level=s0:c512,c768, pkgname=cn.easyar.samples.scene 
+04-21 11:37:44.805 10083-10083/? I/art: Late-enabling -Xcheck:jni
+04-21 11:37:44.835 10083-10083/? D/TimaKeyStoreProvider: TimaSignature is unavailable
+04-21 11:37:44.835 10083-10083/? D/ActivityThread: Added TimaKeyStore provider
+04-21 11:37:44.875 10083-10083/cn.easyar.samples.scene D/ContextRelationManager: ContextRelationManager() : FEATURE_ENABLED=true
+04-21 11:37:44.875 10083-10083/cn.easyar.samples.scene D/RelationGraph: garbageCollect()
+04-21 11:37:44.885 10083-10083/cn.easyar.samples.scene W/ResourcesManager: getTopLevelResources: /data/app/cn.easyar.samples.scene-2/base.apk / 1.0 running in cn.easyar.samples.scene rsrc of package cn.easyar.samples.scene
+04-21 11:37:44.885 10083-10083/cn.easyar.samples.scene I/InjectionManager: Inside getClassLibPath + mLibMap{0=, 1=}
+04-21 11:37:44.885 10083-10083/cn.easyar.samples.scene D/ResourcesManager: For user 0 new overlays fetched Null
+04-21 11:37:44.895 10083-10083/cn.easyar.samples.scene I/InjectionManager: Inside getClassLibPath caller 
+04-21 11:37:44.905 10083-10083/cn.easyar.samples.scene D/Minikin: FontFamily mFonts.size() is NULL(this=0x0xee0bf340)
+04-21 11:37:44.905 10083-10083/cn.easyar.samples.scene D/Minikin: FontFamily bestFont == NULL, so return vacant FakedFont(this=0x0xee0bf340)
+04-21 11:37:44.905 10083-10083/cn.easyar.samples.scene D/Minikin: FontFamily mFonts.size() is NULL(this=0x0xee0bf3a0)
+04-21 11:37:44.905 10083-10083/cn.easyar.samples.scene D/Minikin: FontFamily bestFont == NULL, so return vacant FakedFont(this=0x0xee0bf3a0)
+04-21 11:37:44.905 10083-10083/cn.easyar.samples.scene D/Minikin: FontFamily mFonts.size() is NULL(this=0x0xee0bf3d0)
+04-21 11:37:44.905 10083-10083/cn.easyar.samples.scene D/Minikin: FontFamily bestFont == NULL, so return vacant FakedFont(this=0x0xee0bf3d0)
+04-21 11:37:44.905 10083-10083/cn.easyar.samples.scene D/Minikin: FontFamily mFonts.size() is NULL(this=0x0xee0bf340)
+04-21 11:37:44.905 10083-10083/cn.easyar.samples.scene D/Minikin: FontFamily bestFont == NULL, so return vacant FakedFont(this=0x0xee0bf340)
+04-21 11:37:44.905 10083-10083/cn.easyar.samples.scene D/Minikin: FontFamily mFonts.size() is NULL(this=0x0xee0bf3a0)
+04-21 11:37:44.905 10083-10083/cn.easyar.samples.scene D/Minikin: FontFamily bestFont == NULL, so return vacant FakedFont(this=0x0xee0bf3a0)
+04-21 11:37:44.905 10083-10083/cn.easyar.samples.scene D/Minikin: FontFamily mFonts.size() is NULL(this=0x0xee0bf3d0)
+04-21 11:37:44.905 10083-10083/cn.easyar.samples.scene D/Minikin: FontFamily bestFont == NULL, so return vacant FakedFont(this=0x0xee0bf3d0)
+04-21 11:37:44.915 10083-10083/cn.easyar.samples.scene D/InjectionManager: InjectionManager
+04-21 11:37:44.915 10083-10083/cn.easyar.samples.scene D/InjectionManager: fillFeatureStoreMap cn.easyar.samples.scene
+04-21 11:37:44.915 10083-10083/cn.easyar.samples.scene I/InjectionManager: Constructor cn.easyar.samples.scene, Feature store :{}
+04-21 11:37:44.915 10083-10083/cn.easyar.samples.scene I/InjectionManager: featureStore :{}
+04-21 11:37:44.915 10083-10083/cn.easyar.samples.scene W/ResourcesManager: getTopLevelResources: /data/app/cn.easyar.samples.scene-2/base.apk / 1.0 running in cn.easyar.samples.scene rsrc of package cn.easyar.samples.scene
+04-21 11:37:44.915 10083-10083/cn.easyar.samples.scene D/RelationGraph: garbageCollect()
+04-21 11:37:44.925 10083-10083/cn.easyar.samples.scene W/ResourcesManager: getTopLevelResources: /data/app/cn.easyar.samples.scene-2/base.apk / 1.0 running in cn.easyar.samples.scene rsrc of package cn.easyar.samples.scene
+04-21 11:37:45.045 10083-10083/cn.easyar.samples.scene I/EasyAR: EasyAR3D Version 2.0.0-beta4-rd52bdf0
+04-21 11:37:45.045 10083-10083/cn.easyar.samples.scene I/EasyAR: EasyAR Version 2.0.0-beta4-r51d3fcd
+04-21 11:37:45.075 10083-10083/cn.easyar.samples.scene D/SecWifiDisplayUtil: Metadata value : SecSettings2
+04-21 11:37:45.085 10083-10083/cn.easyar.samples.scene D/SensorManager: registerListener :: 1, LSM6DS3 Accelerometer, 200000, 0,  
+04-21 11:37:45.095 10083-10083/cn.easyar.samples.scene D/Activity: performCreate Call Injection manager
+04-21 11:37:45.095 10083-10083/cn.easyar.samples.scene I/InjectionManager: dispatchOnViewCreated > Target : cn.easyar.samples.scene.MainActivity isFragment :false
+04-21 11:37:45.105 10083-10083/cn.easyar.samples.scene D/ViewRootImpl: #1 mView = com.android.internal.policy.PhoneWindow$DecorView{e201f50 I.E...... R.....ID 0,0-0,0}
+04-21 11:37:45.115 10083-10115/cn.easyar.samples.scene D/OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+04-21 11:37:45.125 10083-10083/cn.easyar.samples.scene W/ActivityThread: AppLock checkAppLockState isAppLocked = false pkgName = cn.easyar.samples.scene showWhenLocked = false
+04-21 11:37:45.135 10083-10115/cn.easyar.samples.scene I/Adreno: QUALCOMM build                   : 0039a8c, I5bc0f577f9
+                                                                 Build Date                       : 08/03/16
+                                                                 OpenGL ES Shader Compiler Version: XE031.08.00.02
+                                                                 Local Branch                     : 
+                                                                 Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.HB.1.1.1.C1.06.00.00.165.223
+                                                                 Remote Branch                    : NONE
+                                                                 Reconstruct Branch               : NOTHING
+04-21 11:37:45.145 10083-10115/cn.easyar.samples.scene D/libEGL: eglInitialize EGLDisplay = 0xdc9ea7cc
+04-21 11:37:45.145 10083-10115/cn.easyar.samples.scene I/OpenGLRenderer: Initialized EGL, version 1.4
+04-21 11:37:45.155 10083-10114/cn.easyar.samples.scene D/libEGL: eglInitialize EGLDisplay = 0xdcaef4c4
+04-21 11:37:45.165 10083-10114/cn.easyar.samples.scene I/EasyAR: Scene created.
+04-21 11:37:45.175 10083-10083/cn.easyar.samples.scene W/DisplayListCanvas: DisplayListCanvas is started on unbinded RenderNode (without mOwningView)
+04-21 11:37:45.185 10083-10115/cn.easyar.samples.scene D/libGLESv1: DTS_GLAPI : DTS is not allowed for Package : cn.easyar.samples.scene
+04-21 11:37:45.205 10083-10083/cn.easyar.samples.scene D/ViewRootImpl: MSG_RESIZED_REPORT: ci=Rect(0, 0 - 0, 0) vi=Rect(0, 0 - 0, 0) or=1
+04-21 11:37:45.225 10083-10083/cn.easyar.samples.scene I/Timeline: Timeline: Activity_idle id: android.os.BinderProxy@4753d9 time:144166
+04-21 11:37:45.355 10083-10114/cn.easyar.samples.scene I/EasyAR: Script scene.js loading. (20540 chars)
+04-21 11:37:45.685 10083-10083/cn.easyar.samples.scene D/SensorManager: unregisterListener ::   
+04-21 11:37:45.685 10083-10083/cn.easyar.samples.scene E/Sensors: ~SensorEventQueue 0
+04-21 11:37:45.765 10083-10114/cn.easyar.samples.scene D/libGLESv2: DTS_GLAPI : DTS is not allowed for Package : cn.easyar.samples.scene
+04-21 11:37:45.785 10083-10114/cn.easyar.samples.scene I/EasyAR: Script scene.js loaded.
+04-21 11:37:54.265 10083-10083/cn.easyar.samples.scene D/ViewRootImpl: ViewPostImeInputStage processPointer 0
+04-21 11:37:54.425 10083-10083/cn.easyar.samples.scene D/ViewRootImpl: ViewPostImeInputStage processPointer 1
+04-21 11:37:56.205 10083-10083/cn.easyar.samples.scene D/ViewRootImpl: ViewPostImeInputStage processPointer 0
+04-21 11:37:56.295 10083-10083/cn.easyar.samples.scene D/ViewRootImpl: ViewPostImeInputStage processPointer 1
+04-21 11:37:57.505 10083-10083/cn.easyar.samples.scene D/ViewRootImpl: ViewPostImeInputStage processPointer 0
+04-21 11:37:57.605 10083-10083/cn.easyar.samples.scene D/ViewRootImpl: ViewPostImeInputStage processPointer 1
